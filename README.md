@@ -27,7 +27,7 @@ chmod +x X-Part
 ```
 ./X-Part -h ibm01.hgr -e 0.04 -k 2
 ```
-#Project Structure
+# Project Structure
 ```
 X-Part/
 |__IBM_Weight/                  #IBM benchmark with actual node weight
