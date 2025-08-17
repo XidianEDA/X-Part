@@ -5,6 +5,9 @@
 **X-Part** reformulates the hypergraph partitioning problem as the approximate unconstrained optimization problem, which incorporates the global properties of hypergraphs with the Laplacian matrix inspired by *SpecPart* and *K-SpecPart* to approximate the balance constraint, for overcoming the stochastic nature introduced by heuristic strategies in initial partitioning. Furthermore, the assignment indicator vector (binary variable $x_i \in \{0,1\}$) is relaxed to the angle variable of the continuous interval ($\{0,2\pi\}$) in our approximate unconstrained optimization model to significantly reduce computational complexity and accelerate model convergence. Based on the model, a gradient method with approximate optimal stepsize (GM\_AOS)-based strategy is proposed to offer a better partitioning solution, even when facing a large hypergraph. Generally, **X-Part** follows the multi-level partitioning framework, which consists of three stages: Coarsening, Initial Partitioning, and Refinement.
 
 Our experiments on real-world VLSI benchmarks show **X-Part** achieves state-of-the-art partition quality compared to existing hypergraph partitioners.
+### Experimental Results
+<img width="1585" height="685" alt="image" src="https://github.com/user-attachments/assets/621ba94a-84d0-49a5-ab32-150687be4e7d" />
+<img width="1583" height="677" alt="image" src="https://github.com/user-attachments/assets/cf2d5799-d4f6-449d-a68f-b31d6c041d60" />
 
 ## Requirements
 * Ubuntu 16.04.7 LTS (intel x86_64) or higher version
