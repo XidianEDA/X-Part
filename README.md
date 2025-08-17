@@ -31,8 +31,8 @@ chmod +x X-Part
 ## Project Structure
 ```
 X-Part/
-|__IBM_Weight/                  #IBM benchmark with actual node weight
-|__Titan/                       #Titan benchmark
+|__IBM_weight/                  #IBM benchmark with actual node weight
+|__TITAN23/                     #Titan23 benchmark
 |__X-Part                       #Executable program
 |__READ.ME
 ```
