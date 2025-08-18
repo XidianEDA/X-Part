@@ -40,4 +40,10 @@ X-Part/
 |__READ.ME
 ```
 ## Authors
-Shunyang Bi, Yingying Li, Zehong Wei, Jing Tang, Hailong You, Haonan Wu, Qiwang Chen, Kexin Zhang, Cong Li, Hongwei Liu, Richard Sun
+Shunyang Bi<sup>**1**</sup>, Yingying Li<sup>**2**</sup>, Zehong Wei<sup>**1**</sup>, Jing Tang, Hailong You<sup>**1**</sup>, Haonan Wu<sup>**1**</sup>, Qiwang Chen<sup>**1**</sup>, Kexin Zhang<sup>**1**</sup>, Cong Li<sup>**1**</sup>, Hongwei Liu<sup>**2**</sup>, Richard Sun<sup>**3**</sup>
+
+<sup>**1**</sup> Faculty of Integrated Circuit, Xidian University & Engineering Research Center of Digital Integrated Circuit Design and Verification Tools, Ministry of Education
+
+<sup>**2**</sup> School of Mathematics and Statistics, Xidian University
+
+<sup>**3**</sup> S2C Inc., Shenzhen, China
