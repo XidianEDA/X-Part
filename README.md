@@ -37,7 +37,7 @@ X-Part/
 |__IBM_weight/                  #IBM benchmark with actual node weight
 |__TITAN23/                     #Titan23 benchmark
 |__X-Part                       #Executable program
-|__READ.ME
+|__README.md
 ```
 ## Authors
 Shunyang Bi<sup>**1**</sup>, Yingying Li<sup>**2**</sup>, Zehong Wei<sup>**1**</sup>, Jing Tang, Hailong You<sup>**1**</sup>, Haonan Wu<sup>**1**</sup>, Qiwang Chen<sup>**1**</sup>, Kexin Zhang<sup>**1**</sup>, Cong Li<sup>**1**</sup>, Hongwei Liu<sup>**2**</sup>, Richard Sun<sup>**3**</sup>
